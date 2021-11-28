@@ -1,0 +1,36 @@
+@charset 'utf-8';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline-style: none;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+body {
+    font-size: 10px;
+}
+
+html {}
+
+.wrap {
+    position: relative;
+    display: block;
+    width: 1920px;
+    margin: 0 auto;
+}
